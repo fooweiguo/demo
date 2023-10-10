@@ -1,6 +1,7 @@
 ## Common Git Commands
 
-** git init **
+# git init 
+
 Initialize an existing directory as Git repository.
 
 ** git clone [URL/SSH]
